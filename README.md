@@ -1,9 +1,8 @@
-# CGV BellinabyMina
+# Conditions Générales de Vente de Bellina by Mina (CGV)
 <!DOCTYPE html>
 <html>
     <meta charset="UTF-8">
    <head>
-      <title>Conditions Générales de Vente de Bellina by Mina (CGV)</title>
    </head> 
    <body>
 L’internaute se connectant au site doit être une personne physique âgée de plus de 18 ans et sera désigné ci-après dans les Conditions Générales par le terme « le Consultant ».
@@ -54,7 +53,7 @@ Le client déclare avoir lu et accepté les CGV avant de passer commande pour un
 Mina se réserve le droit de modifier et de mettre à jour les présentes CGV. 
 Voyance Luminance se réserve le droit de modifier et de mettre à jour, sans préavis, les présentes mentions légales et tous les éléments, produits présentés sur le site. L’ensemble de ces modifications s’impose aux internautes qui doivent consulter les présentes Conditions Générales lors de chaque connexion.
 <br>
-<b>Fait à PARIS, le 17 septembre 2025</b>
+<footer><b>Fait à PARIS, le 17 septembre 2025</b></footer>
 <br>
 <a href="www.BellinabyMina.fr">www.BellinabyMina.fr</a>
 </body>
