@@ -1,5 +1,4 @@
-# CGVBellinabyMina
-Les conditions générales de vente du site www.bellinabymina.fr
+# CGV BellinabyMina
 <!DOCTYPE html>
 <html>
     <meta charset="UTF-8">
