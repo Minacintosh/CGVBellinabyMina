@@ -1,5 +1,4 @@
 # Conditions Générales de Vente de Bellina by Mina (CGV)
-<!DOCTYPE html>
 <html>
     <meta charset="UTF-8">
    <head>
