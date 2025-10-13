@@ -22,7 +22,7 @@ La réservation n’est confirmée qu’une fois le paiement validé.
 Par prévention et éthique, j’invite les personnes à se fixez-vous un budget maximal  en voyance et à ne le dépasser sous aucun prétexte.  La meilleure protection reste la prudence. Un consommateur averti en vaut deux, surtout dans un domaine aussi sensible que la voyance.
 <br>
        <h1>4. Annulation et report</h1>
-Toute annulation ou report doit être signalé par e-mail (minacartomancie@gmail.com) ou par SMS (06.63.51.23.24) au moins 48h avant le rendez-vous.
+Toute annulation ou report doit être signalé par e-mail (contact@bellinabymina.com) ou par SMS (06.80.78.20.45) au moins 48h avant le rendez-vous.
 En cas d’annulation tardive ou d’absence du client, la séance sera considérée comme due et ne donnera lieu à aucun remboursement.
 Mina peut annuler la prestation de voyance pour un motif légitime. Dans ce cas, le client pourra au choix être remboursé de l’intégralité du montant de la consultation ou choisir une nouvelle date de consultation de voyance.
 <br>
